@@ -1,0 +1,27 @@
+body{
+    font-family: arial;
+    max-width: 700px;
+    margin: 40px auto;
+    background:ffff;
+    
+}
+h1{
+    color: red;
+
+}
+h5{
+    color: white;
+}
+.frmcontainer{
+    background:#5c5454;
+    padding: 20px;
+    margin: 40px, auto;
+    border-radius: 20px;
+    text-align: center;
+}
+.grpcontainer{
+    background-color: burlywood;
+    text-align: center;
+    margin: 30px, auto;
+    padding: 80px;
+}
